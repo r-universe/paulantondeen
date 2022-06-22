@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "POV"]
+	path = POV
+	url = https://github.com/paulantondeen/pov-r-package
+	shallow = true
+	registered = true
